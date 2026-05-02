@@ -1,5 +1,5 @@
 [versions]
-acute = "3.3.2"
+acute = "3.4.3"
 obviously = "0.100.0"
 
 [libraries]
