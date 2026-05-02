@@ -1,6 +1,6 @@
 [versions]
 acute = "3.3.2"
-obviously = "0.100.0"
+obviously = "0.104.0"
 
 [libraries]
 acute = { module = "io.ktor:ktor-server-status-pages", version.ref = "acute" }
